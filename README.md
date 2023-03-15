@@ -252,3 +252,5 @@ behavior.
 The ability of instance variables to store information and be accessible within
 different instance methods is one of the things that makes it possible for us to
 create similar but unique objects in object-oriented Ruby.
+
+https://github.com/G3o-R/phase-3-ruby-oo-basics-instance-variables-lab
